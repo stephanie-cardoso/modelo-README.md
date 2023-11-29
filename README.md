@@ -1,5 +1,5 @@
 # modelo-README.md
-Modelo (template) de README para utilizar nas documentações dos seus projetos no GitHub.
+Modelo (template) de README para utilizar nas documentações dos seus projetos no GitHub. Deixe sua ⭐ se curtiu o template, para ficar salvo e utilizar depois.
 
 # Título/Nome do projeto
 
